@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="cdma_same_nai">false</bool>
+    <bool name="config_need_otasp">false</bool>
+    <bool name="mdn_min_for_non_provisioned_csim">true</bool>
+</resources>

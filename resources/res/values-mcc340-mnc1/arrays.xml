@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_tether_apndata">
+        <item>Orangeweb,orangeweb,,,orange,orange,,,,,340,01,1,DUN</item>
+    </array>
+</resources>

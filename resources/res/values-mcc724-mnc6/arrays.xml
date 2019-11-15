@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_operatorConsideredNonRoaming">
+        <item>72410</item>
+        <item>72411</item>
+        <item>72423</item>
+    </array>
+    <array name="config_spn_display_rules">
+        <item>724,2</item>
+    </array>
+</resources>

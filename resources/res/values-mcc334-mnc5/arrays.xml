@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_operatorConsideredNonRoaming">
+        <item>33403</item>
+        <item>334030</item>
+        <item>334090</item>
+    </array>
+    <array name="config_sim_operator_override_rules">
+        <item>PNN:IUSACELL;NUMERIC_FROM_SIM;VALUE_FROM_PNN</item>
+        <item>PNN:AT&amp;T;NUMERIC_FROM_SIM;VALUE_FROM_PNN</item>
+        <item>PNN:UNEFON;NUMERIC_FROM_SIM;VALUE_FROM_PNN</item>
+    </array>
+    <array name="config_tether_apndata">
+        <item>Modem,modem.iusacellgsm.mx,,,iusacellgsm,iusacellgsm,,,,,334,050,1,DUN</item>
+    </array>
+    <array name="config_tether_upstream_types">
+        <item>1</item>
+        <item>4</item>
+        <item>7</item>
+        <item>9</item>
+    </array>
+    <array name="config_twoDigitNumberPattern">
+        <item>#9</item>
+    </array>
+</resources>

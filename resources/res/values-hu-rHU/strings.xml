@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_and_time">%Y.%m.%d., %-k:%M:%S</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="month_day_year">%Y. %B %-e.</string>
+    <string name="time_of_day">%-k:%M:%S</string>
+</resources>

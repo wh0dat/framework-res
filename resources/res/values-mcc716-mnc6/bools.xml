@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_device_volte_available">true</bool>
+    <bool name="config_device_wfc_ims_available">true</bool>
+    <bool name="config_match_special_chars_incalls">false</bool>
+    <bool name="is_broker_home_mcc_mnc">true</bool>
+</resources>

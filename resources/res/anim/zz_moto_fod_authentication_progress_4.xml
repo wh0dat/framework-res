@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:interpolator="@interpolator/accelerate_quad" android:duration="@integer/config_fod_authentication_duration" android:valueFrom="@dimen/config_fod_authentication_progress_4_trim_start" android:valueTo="@dimen/config_fod_authentication_progress_4_trim_end" android:valueType="floatType" android:propertyName="trimPathEnd"/>
+</set>

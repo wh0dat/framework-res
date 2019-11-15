@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="emailAddressTypes">
+        <item>အိမ္</item>
+        <item>အလုပ္</item>
+        <item>တျခား</item>
+        <item>မိမိစိတ္ႀကိဳက္</item>
+    </array>
+    <array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>ရာဟူး</item>
+        <item>စကိုက္ပ္</item>
+        <item>QQ</item>
+        <item>ဂူဂဲလ္ေတာ့ခ္</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </array>
+    <array name="organizationTypes">
+        <item>အလုပ္</item>
+        <item>တျခား</item>
+        <item>မိမိစိတ္ႀကိဳက္</item>
+    </array>
+    <array name="phoneTypes">
+        <item>အိမ္</item>
+        <item>မိုဘိုင္း</item>
+        <item>အလုပ္</item>
+        <item>အလုပ္ဖက္စ္</item>
+        <item>အိမ္ဖက္စ္</item>
+        <item>ေပဂ်ာ</item>
+        <item>တျခား</item>
+        <item>မိမိစိတ္ႀကိဳက္</item>
+    </array>
+    <array name="postalAddressTypes">
+        <item>အိမ္</item>
+        <item>အလုပ္</item>
+        <item>တျခား</item>
+        <item>မိမိစိတ္ႀကိဳက္</item>
+    </array>
+    <array name="fingerprint_acquired_vendor">
+        <item>လက္ေဗြကို တင္လိုက္သည့္အခါတိုင္း ေနရာအနည္းငယ္ေရႊ႕သင့္သည္။ ထပ္ႀကိဳးစားပါ။</item>
+    </array>
+    <array name="imAddressTypes">
+        <item>အိမ္</item>
+        <item>အလုပ္</item>
+        <item>တျခား</item>
+        <item>မိမိစိတ္ႀကိဳက္</item>
+    </array>
+    <array name="network_switch_type_name">
+        <item>မိုဘိုင္းေဒတာ</item>
+        <item>Wi-Fi</item>
+        <item>ဘလူးတုသ္</item>
+        <item>အီသာနက္</item>
+        <item>VPN</item>
+    </array>
+    <array name="wfcOperatorErrorAlertMessages">
+        <item>Wi-Fi အသုံးျပဳ၍ ဖုန္းေခၚရန္ႏွင့္ မက္ေဆ့ဂ်္ပို႔ရန္အတြက္ သင့္ဝန္ေဆာင္မွုေပးသူကို ဤဝန္ေဆာင္မွုအား သတ္မွတ္ေပးရန္ ဦးစြာေတာင္းဆိုပါ။ ထို႔ေနာက္ ဆက္တင္ထဲသို႔ သြား၍ Wi-Fi ျဖင့္ ဖုန္းေခၚျခင္းကို ဖြင့္ရပါမည္။ (အမွားကုဒ္- %1$s)</item>
+    </array>
+    <array name="wfcOperatorErrorNotificationMessages">
+        <item>သင္၏ ဝန္ေဆာင္မွုေပးသူျဖင့္ Wi‑Fi ေခၚဆိုမွုကို မွတ္ပုံတင္ရာတြင္ ျပႆနာရွိေနသည္− %1$s</item>
+    </array>
+    <array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s Wi-Fi  ေခၚဆိုမွု</item>
+    </array>
+</resources>

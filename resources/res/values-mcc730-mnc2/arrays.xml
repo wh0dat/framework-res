@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_operatorConsideredNonRoaming">
+        <item>73001</item>
+        <item>73003</item>
+        <item>73004</item>
+        <item>73005</item>
+        <item>73006</item>
+        <item>73007</item>
+        <item>73008</item>
+        <item>73009</item>
+        <item>73010</item>
+        <item>73011</item>
+        <item>73012</item>
+        <item>73013</item>
+        <item>73016</item>
+        <item>73019</item>
+        <item>73099</item>
+    </array>
+    <array name="config_spn_display_rules">
+        <item>730,1</item>
+    </array>
+</resources>

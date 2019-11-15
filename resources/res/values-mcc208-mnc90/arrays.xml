@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_fixed_preferred_network_mode">
+        <item>gid111ffffffffffffff:9</item>
+    </array>
+</resources>

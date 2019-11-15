@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_sms_short_code_exception_list">
+        <item>112</item>
+    </array>
+</resources>

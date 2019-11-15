@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@drawable/zz_moto_fod_fingerprint">
+    <target android:name="circle_1" android:animation="@anim/zz_moto_fod_circle_1_appear_animation"/>
+    <target android:name="ridge_1" android:animation="@anim/zz_moto_fod_ridge_1_appear_animation"/>
+    <target android:name="ridge_2" android:animation="@anim/zz_moto_fod_ridge_2_appear_animation"/>
+    <target android:name="ridge_3" android:animation="@anim/zz_moto_fod_ridge_6_appear_animation"/>
+    <target android:name="ridge_4" android:animation="@anim/zz_moto_fod_ridge_7_appear_animation"/>
+    <target android:name="ridge_5" android:animation="@anim/zz_moto_fod_ridge_5_appear_animation"/>
+</animated-vector>

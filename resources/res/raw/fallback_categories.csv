@@ -1,0 +1,45 @@
+# Default app categories used if neither the package nor installer sets anything
+# First column is package name, second column is raw ApplicationInfo.CATEGORY value
+com.android.printspooler,7
+# BEGIN IKAPU-55 Motorola, Add category of preload apps for Smart Folder.
+com.android.chrome,4
+com.android.contacts,4
+com.android.dialer,4
+com.android.settings,7
+com.android.vending,7
+com.google.android.apps.docs.editors.docs,7
+com.google.android.apps.docs.editors.sheets,7
+com.google.android.apps.docs.editors.slides,7
+com.google.android.apps.maps,6
+com.google.android.apps.messaging,4
+com.google.android.apps.photos,3
+com.google.android.calendar,7
+com.google.android.deskclock,7
+com.google.android.gm,4
+com.google.android.music,1
+com.google.android.talk,4
+com.google.android.videos,2
+com.google.android.youtube,2
+com.motorola.camera2,2
+com.motorola.iqdataupload,7
+com.android.development,7
+com.android.documentsui,7
+com.dolby.dax2appUI,7
+com.google.android.apps.tachyon,4
+com.google.android.apps.wallpaper,3
+com.google.android.calculator,7
+com.google.android.googlequicksearchbox,7
+com.googlecode.android_scripting,7
+com.motorola.audiomonitor,7
+com.motorola.bug2go,7
+com.motorola.cdbench2,7
+com.motorola.fmplayer,7
+com.motorola.genie,7
+com.motorola.iplog,7
+com.motorola.moto,7
+com.motorola.perfmonitor,7
+com.motorola.pmtest2,7
+com.motorola.survey,7
+com.motorola.tools.batterytracer,7
+com.qualcomm.qti.sensors.qsensortestcom,7
+# END IKAPU-55 Motorola, Add category of preload apps for Smart Folder.

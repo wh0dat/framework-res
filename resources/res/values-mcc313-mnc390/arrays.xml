@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_carrier_specified_default_network_type">
+        <item>11</item>
+    </array>
+    <array name="config_fixed_preferred_network_mode">
+        <item>11</item>
+    </array>
+</resources>

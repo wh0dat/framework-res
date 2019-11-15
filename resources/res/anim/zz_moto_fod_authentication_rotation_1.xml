@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <set android:ordering="sequentially">
+        <objectAnimator android:interpolator="@interpolator/accelerate_quad" android:duration="@integer/config_fod_authentication_rotation_duration" android:startOffset="@integer/config_fod_authentication_rotation_startOffset" android:valueFrom="0" android:valueTo="360" android:valueType="floatType" android:propertyName="rotation"/>
+        <objectAnimator android:interpolator="@interpolator/linear" android:duration="@integer/config_fod_authentication_rotation_duration_2" android:startOffset="0" android:repeatCount="infinite" android:valueFrom="0" android:valueTo="360" android:valueType="floatType" android:propertyName="rotation"/>
+    </set>
+</set>
